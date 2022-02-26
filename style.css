@@ -1,7 +1,7 @@
 *{
-    background-color: blanchedalmond; 
-    margin: 0%; 
-    padding: 10px; 
+    background-color: transparent; 
+    margin-top: 3%; 
+    padding: 0px; 
     box-sizing: border-box;
     font-family: 'Times New Roman', Times, serif;
     height: auto;
@@ -10,28 +10,24 @@
 
 .container {
 min-width: min-content;
-max-width: 77%;;
-background-color: #e028e0;
+max-width: 77%;
 }
 
-.intro {
-    background-color: #ffffff;
-    color: rgb(24, 22, 36);
-    font-color;
+.intro {color:black;
 }
 .dpImage {
     height: 99%;
     width: 100%;
-    margin-right: 30px;
+    margin-right: 0px;
     border-radius: 10px;
-    background-color: mediumslateblue;
+    border-color: mediumslateblue;
 }
-.bio 
 
-#bio {
-    font-size: large;
+span{
+    font-size: 50px;
     font-family: Arial, Helvetica, sans-serif;
     background-color: lightgreen;
+    color: blueviolet;
 }
 
 #favQuote{
@@ -39,14 +35,24 @@ background-color: #e028e0;
     background-size: contain; 
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: bold;
-    font-stretch: extra-condensed;}
+    font-stretch: expanded;
+    padding: 10px;
+    width: 77%;
+    color:#ffffff;
+    align-items: center;
+    margin-left: 69px;
+}
 
+hr{
+    border: 3px solid royalblue;
+    border-radius: 100px;
+}
 .about{
     float: left;
     background-color:rgb(255, 255, 255);
-    width: 100%;
+    width: 99%;
     padding:10px;
-    border:1px solid black; 
+    border:1px solid rgb(255, 255, 255); 
     height: auto;}
 
 .dp-text{
