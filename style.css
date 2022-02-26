@@ -8,9 +8,10 @@
 background-color: #ffffff;
 }
 .dpImage {
-    height: 20%;
-    margin-left: 10%;
-    border-radius: 10%;
+    height: 40px;
+    width: 40px;
+    margin-left: 10px;
+    border-radius: 10px;
 }
 .bio 
 
