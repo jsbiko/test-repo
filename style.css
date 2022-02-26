@@ -1,18 +1,40 @@
-*{background-color: aqua; margin: 0px; padding: 0px; box-sizing: border-box;}
+*{
+    background-color: aqua; 
+    margin: 0px; 
+    padding: 0px; 
+    box-sizing: border-box;}
+
+.container {
+background-color: #ffffff;
+}
 .dpImage {
     height: 20%;
     margin-left: 10%;
     border-radius: 10%;
 }
-.bio div
+.bio 
+
 #bio{
     font-size: large;
     font-family: Arial, Helvetica, sans-serif;
     color: lightgreen;
 }
 
-.introHeaders{background-color:#ffffff;text-align: center;}
-#villageQuote{background-color: mediumslateblue;background-size: contain; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-weight: bold;font-stretch: extra-condensed;}
-.fruits{background-color:rgb(248, 245, 245);width:77%;padding:10px;border:5px solid black;margin:10px;text-align: left;}
-.citrus{float:left;background-color:rgb(15, 15, 14);}
-.mangifera{float:right;text-decoration-style: wavy;background-color:orange;}
+#villageQuote{
+    background-color: mediumslateblue;background-size: contain; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-weight: bold;font-stretch: extra-condensed;}
+
+.fruits{
+    background-color:rgb(248, 245, 245);
+    width:77%;
+    padding:10px;
+    border:5px solid black; 
+    height: 100%;}
+
+.citrus{
+    float:left;
+    background-color:rgb(15, 15, 14);}
+
+.mangifera{
+    float:right;
+    text-decoration-style: wavy;
+    background-color:orange;}
