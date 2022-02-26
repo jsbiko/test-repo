@@ -44,3 +44,7 @@ background-color: #ffffff;
     float:right;
     text-decoration-style: wavy;
     background-color:orange;}
+
+.projects {
+    float: left;
+}
