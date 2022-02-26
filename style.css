@@ -23,7 +23,7 @@ max-width: 77%;
     height: 99%;
     width: 100%;
     margin-right: 0px;
-    border-radius: 10px;
+    border-radius: 100%;
     border-color: mediumslateblue;
 }
 
@@ -72,6 +72,10 @@ hr{
     float:left;
     background-color:#ffffff;
     width: 69%;
+}
+
+.dp-text h3{
+    text-decoration: underline;
 }
 
 .dp-img{
