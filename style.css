@@ -58,7 +58,15 @@ hr{
     width: 99%;
     padding:10px;
     border:1px solid rgb(255, 255, 255); 
-    height: auto;}
+    height: auto;
+}
+
+.aboutList ul li{
+    padding: 5px;
+    margin-left: 30px;
+    color: blue;
+    background-color: aqua;
+}
 
 .dp-text{
     float:left;
