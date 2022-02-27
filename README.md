@@ -14,12 +14,10 @@
 ## Known Bugs
 None
 
-##### Link to Live Site : https://
+##### Link to Live Site : https://jsbiko.github.io/test-repo/
 
 ### License
 MIT
 Copyright (c) 2022 *Steve Biko*
-
-
 
 
